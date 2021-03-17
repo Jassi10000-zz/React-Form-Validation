@@ -1,0 +1,12 @@
+For this project we will be using some libraries
+1. React - Hook _ Form :
+In this we also need to install some more things which will 
+actually help us create schema based validations using Yup
+2. Yup :
+It includes a variety of functions that describe various inputs
+
+
+
+In this we will also be taking care of Schema validation 
+
+With the help of ref() we would actually be grabbing the inputs in each input field
